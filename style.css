@@ -35,6 +35,7 @@ background-color:purple;
  text-align:center;
 }
 .content{
+clear:both;
 padding:20px ;
 display:inline-block;
 width:auto;
