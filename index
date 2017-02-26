@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>WesternAllStar</tltle>
+<link href="./style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<div class="Leftside">
+<h1>Western All Star!</h1>
+<img src="./all star west.jpg">
+</div>
+<div class="content">
+<h1>It's a news about it.</h1>
+<p>NBA官方公布全明星替补阵容，东部的托马斯、洛瑞、沃克、沃尔、乔治、乐福、米尔萨普分别入选，与首发五虎詹姆斯、欧文、阿德托昆博、德罗赞、巴特勒组成东部明星队；西部的威斯布鲁克、汤普森、海沃德、格林、考辛斯、小加索尔、小乔丹分别入选，与首发五虎库里、杜兰特、哈登、莱昂纳德、戴维斯组成西部明星队。</p>
+<p>西部明星队此番选材风格迥异，尽管首发阵容同样没有中锋，替补阵容竟然包括小加索尔、考辛斯、小乔丹三名中锋。除了小乔丹是专攻内线的传统中锋，小加索尔和考辛斯都技术全面，不仅中距离投篮不在话下，投进关键三分球也是他们的拿手好戏。</p>
+<p>令人遗憾的是，上赛季最佳新秀唐斯和铁定夺得本赛季最佳新秀的恩比德都落选全明星替补阵容，他们恰好都是中锋。76人球星恩比德本赛季表现突出，让人看到“大梦”奥拉朱旺的影子。恩比德在全明星的球迷投票部分排名东部前场球员的第三位，“大帝”成了规则改革的牺牲品，先落选首发阵容又落选替补阵容。恩比德多次呼吁，NBA应该在全明星投票中恢复中锋位置。</p>
+</div>
+<div class="Rightside">
+<p>斯蒂芬库里<img src="./curry.jpg"></p>
+<p>凯文杜兰特<img src="./kd.jpg"></p>
+<p>哈登<img src="./james.jpg"></p>
+<p>浓眉哥<img src="./davis.jpg"></p>
+<p>卡哇伊<img src="./kawhi.jpg"></p>
+</div>
+<foot class="footer">
+Proudly Produced by J
+</foot>
+</body>
+</html>
