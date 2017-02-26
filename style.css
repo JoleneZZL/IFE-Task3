@@ -5,7 +5,9 @@ font-family:"sans-serif","Microsoft YaHei";
 border:10px inset #999;
 margin:0;
 }
-
+.empty{
+ clear:both;
+}
 .Leftside{
 position:absolute;
 top:20px;
@@ -35,7 +37,7 @@ background-color:purple;
  text-align:center;
 }
 .content{
-margin-top:0;
+margin-top:-20px;
 margin-left:220px;
 margin-right:140px;
 padding:20px ;
