@@ -5,6 +5,10 @@ font-family:"sans-serif","Microsoft YaHei";
 border:10px inset #999;
 margin:0;
 }
+#box{
+display:flex;
+height:150%;
+}
 .empty{
  clear:both;
 }
