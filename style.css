@@ -35,7 +35,8 @@ background-color:purple;
  text-align:center;
 }
 .content{
-clear:both;
+margin-left:220px;
+margin-right:140px;
 padding:20px ;
 display:inline-block;
 width:auto;
