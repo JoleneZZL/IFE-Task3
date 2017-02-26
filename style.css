@@ -5,6 +5,9 @@ font-family:"sans-serif","Microsoft YaHei";
 border:10px inset #999;
 margin:0;
 }
+.clearfix{
+ overflow:auto;
+}
 .Leftside{
 position:absolute;
 top:20px;
