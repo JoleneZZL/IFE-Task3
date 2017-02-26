@@ -5,17 +5,6 @@ font-family:"sans-serif","Microsoft YaHei";
 border:10px inset #999;
 margin:10px;
 }
-.container:after{
- content:".";
- height:0;
- visibility:hidden;
- display:block;
- clear:both;
- }
-.container{
-background-color:#06eabf
-padding:10px;
-}
 .Leftside{
 position:absolute;
 top:20px;
