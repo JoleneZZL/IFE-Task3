@@ -32,6 +32,8 @@ border:5px solid grey;
 background-color:purple;
  color:white;
  text-align:center;
+ overflow: auto;
+ zoom: 1;
 }
 .content{
 margin:0 140px auto 220px ;
@@ -46,4 +48,5 @@ border:5px solid grey;
  color:white;
  size:2em;
 }
+
 
