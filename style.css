@@ -25,6 +25,7 @@ padding:10px;
 }
 .Rightside img{
 width:80%;
+height:100%;
 border:5px solid white;}
 .Rightside {
 position:absolute;
@@ -44,13 +45,8 @@ padding:20px ;
 display:inline-block;
 border:5px solid grey;
 }
-.footer{
- background-color:#000;
- display:block;
- width:100%;
- color:white;
- size:2em;
- clear:both;
-}
+ .clear{  
+        clear: both;  
+    }  
 
 
