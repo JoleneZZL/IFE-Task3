@@ -6,7 +6,6 @@ margin:0;
 }
 .clearfix{
  border:10px inset #999;
- overflow:auto;
  overflow:hidden;
 }
 .Leftside{
