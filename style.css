@@ -5,6 +5,9 @@ font-family:"sans-serif","Microsoft YaHei";
 border:10px inset #999;
 margin:10px;
 }
+.clearfix{
+ clear:both;
+}
 .Leftside{
 position:absolute;
 top:20px;
@@ -41,9 +44,6 @@ padding:20px ;
 display:inline-block;
 width:auto;
 border:5px solid grey;}
-.clearfix{
- clear:both;
-}
 .footer{
  background-color:#000;
  display:block;
