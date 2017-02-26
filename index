@@ -6,7 +6,6 @@
 <link href="./style.css" type="text/css" rel="stylesheet"/>
 </head>
 <body>
-<div id="box">
  <div class="Leftside">
 <h1>Western All Star!</h1>
 <img src="./all star west.jpg">
@@ -27,7 +26,5 @@
 <foot class="footer">
 Proudly Produced by J
 </foot>
- <div class="empty"></div>
-</div>
 </body>
 </html>
