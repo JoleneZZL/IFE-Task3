@@ -37,11 +37,10 @@ background-color:purple;
  text-align:center;
 }
 .content{
-margin:0 140px auto 220px ;
+margin:-20px 140px auto 220px ;
 padding:20px ;
 display:inline-block;
 border:5px solid grey;
-height:100%;
 }
 .footer{
  background-color:#000;
