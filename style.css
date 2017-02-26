@@ -23,6 +23,9 @@ left:20px;
 width:200px;
 padding:10px;
 }
+.Leftside img{
+ width:80%;
+}
 .Rightside img{
 width:80%;
 border:5px solid white;}
