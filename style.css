@@ -2,9 +2,12 @@ body{
 padding:20px;
 background-color:#eee;
 font-family:"sans-serif","Microsoft YaHei";
-border:10px inset #999;
 margin:0;
-overflow:auto;
+
+}
+.clearfix{
+ border:10px inset #999;
+ overflow:auto;
 }
 .Leftside{
 position:absolute;
@@ -35,7 +38,7 @@ background-color:purple;
  text-align:center;
 }
 .content{
-margin:-20px 140px auto 220px ;
+margin:-10px 140px auto 220px ;
 padding:20px ;
 display:inline-block;
 border:5px solid grey;
