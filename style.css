@@ -1,6 +1,7 @@
-.clearfix{
- border:10px inset #999;
- overflow:hidden;
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
 }
 .box{
 padding:20px;
