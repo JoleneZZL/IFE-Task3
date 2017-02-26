@@ -13,6 +13,9 @@ width:200px;
 padding:10px;
  border:5px solid grey;
  background-color:purple;
+ margin:10px;
+ color:white;
+ text-align:center;
 }
 .Leftside img{
  width:80%;
@@ -28,14 +31,21 @@ width:120px;
 padding:10px;
 border:5px solid grey;
 background-color:purple;
+ color:white;
+ text-align:center;
 }
 .content{
-padding:20px;
-margin-left:220px;
-margin-right:20px;
+padding:20px ;
 display:inline-block;
 width:auto;
 border:5px solid grey;}
 .clearfix{
  clear:both;
+}
+.footer{
+ background-color:#000;
+ display:block;
+ width:100%;
+ color:white;
+ size:2em;
 }
