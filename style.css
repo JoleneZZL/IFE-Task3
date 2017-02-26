@@ -1,9 +1,12 @@
+.clearfix{
+ overflow:hidden;
+}
 .box{
 padding:20px;
 background-color:#eee;
 font-family:"sans-serif","Microsoft YaHei";
 margin:0;
-border:1px solid #999
+border:1px solid 000;
 }
 .Leftside{
 position:absolute;
@@ -33,6 +36,7 @@ border:5px solid grey;
 background-color:purple;
  color:white;
  text-align:center;
+ display:inline-block;
 }
 .content{
 margin:0 140px auto 220px ;
