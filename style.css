@@ -3,7 +3,12 @@ padding:20px;
 background-color:#eee;
 font-family:"sans-serif","Microsoft YaHei";
 border:10px inset #999;
-margin:10px;
+margin:0;
+width:100px;
+}
+#box{
+ display:flex;
+ width:100%;
 }
 .Leftside{
 position:absolute;
@@ -35,7 +40,7 @@ background-color:purple;
 }
 .content{
 margin-top:0;
-margin-left:240px;
+margin-left:220px;
 margin-right:140px;
 padding:20px ;
 display:inline-block;
@@ -48,10 +53,4 @@ border:5px solid grey;}
  color:white;
  size:2em;
 }
-.clear:after{
- content:".";
- height:0;
- visibility:hidden;
- display:block;
- clear:both;
- }
+
