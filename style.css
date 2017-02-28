@@ -3,9 +3,10 @@ body{
  margin:0;
 }
 .box{
- border:1px solid #eee;
+ border:1px solid #fff;
  margin:20px;
  margin:20px;
+ background-color:#eee;
 }
 .box:after { 
 	content: "";
@@ -24,13 +25,13 @@ img{
  height:auto;
  margin:10px;
 }
-.Rightside{
-float:right;
- width:120px;
-}
 .Leftside{
  float:left;
  width:200px;
+}
+.Rightside{
+float:right;
+ width:120px;
 }
 .content{
  margin:0 160px auto 240px;
