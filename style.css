@@ -7,16 +7,17 @@ body{
  margin:20px;
  margin:20px;
 }
-.box:after {
-			content: "";
-			display: block;
-			clear: both;
+.box:after { 
+	content: "";
+	display: block;
+	clear: both;
 		}
 .Rightside,.Leftside{
  background-color:#fff;
  font-family: Times newroman;
  text-align:center;
  color:red;
+ border:1px solid #000;
 }
 img{
  border:1px solid #000;
