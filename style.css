@@ -6,9 +6,7 @@ body{
 .box{
  border:1px solid #000;
 }
-.clearfix{
-clear:both;
-}
+
 }
 .Rightside,.Leftside{
  position:absolute;
