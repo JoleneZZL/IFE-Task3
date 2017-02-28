@@ -3,7 +3,7 @@ body{
  margin:0;
 }
 .box{
- border:1px solid #000;
+ border:1px solid #eee;
  margin:20px;
  margin:20px;
 }
@@ -14,7 +14,6 @@ body{
 		}
 .Rightside,.Leftside{
  background-color:#fff;
- font-family: Times newroman;
  text-align:center;
  color:red;
  border:1px solid #000;
@@ -36,7 +35,6 @@ float:right;
 .content{
  margin:0 160px auto 240px;
  border:1px solid #000;
- font-family:Times newroman;
  background-color:#fff;
  color:#000;
 }
